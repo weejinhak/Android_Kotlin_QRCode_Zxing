@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 gradle.properties
 google-services.json
 .DS_Store
@@ -43,3 +44,6 @@ build/
 .idea/.name
 
 
+=======
+# Android_QRCode_Zxing
+>>>>>>> 6bd985ecb15226d93018a0803e79f12cb5cc72ab
