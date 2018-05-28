@@ -1,4 +1,4 @@
-##### Android QR Code Zxing Library 
+# Android QR Code Zxing Library 
 
 * app level에서 build.gradle에 추가
 
