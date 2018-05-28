@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kotlin_Zxing_Sample</string>
+    <string name="read_qrcode">read_Qrcode</string>
+    <string name="write_qrcode">write_Qrcode</string>
+</resources>

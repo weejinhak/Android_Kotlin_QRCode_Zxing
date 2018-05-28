@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/navigation_take_qrCode"
+        android:icon="@android:drawable/ic_menu_camera"
+        android:title="@string/read_qrcode" />
+    <item
+        android:id="@+id/navigation_my_qrCode"
+        android:icon="@android:drawable/ic_menu_camera"
+        android:title="@string/write_qrcode" />
+
+</menu>
